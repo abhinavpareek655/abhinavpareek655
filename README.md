@@ -66,7 +66,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavpareek655&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=abhinavpareek655&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
