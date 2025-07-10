@@ -67,11 +67,20 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=abhinavpareek655&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abhinavpareek655&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abhinavpareek655&theme=tokyonight&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+
 
 ---
 
@@ -96,4 +105,3 @@ If you find my projects helpful, consider supporting me!
 **Let's connect and build something amazing together!** 🚀
 
 </div>
-
